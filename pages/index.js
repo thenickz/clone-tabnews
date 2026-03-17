@@ -38,7 +38,7 @@ function Home() {
                 <h3>Solução (?)</h3>
                 
                 <p>A muito tempo atrás, quando estava no inicio da faculdade, me lembro de um vídeo do Deschamps que o título era:</p>
-                <a href="https://youtu.be/EW7m2WIvFgQ?si=DZtF9FK8QmY6JWq3">Como Eu Programo e Hospedo Sites da Forma Mais Moderna que Existe [GUIA DEFINITIVO]</a>
+                <a href="https://youtu.be/EW7m2WIvFgQ?si=DZtF9FK8QmY6JWq3" style={{ color: "#61dafb", textDecoration: "none" }}>Como Eu Programo e Hospedo Sites da Forma Mais Moderna que Existe [GUIA DEFINITIVO]</a>
                 <p>Desde então, sempre que eu queria deixar algum frontend rodando de forma gratuita na internet eu usava a Vercel (percebi que várias pessoas também fizeram assim).</p>
                 <p>Como o meu TCC teria uma parte de frontend (que inclusive já iniciei, usando Vue.js, mas talvez troque pra Next.js por causa do Curso)</p>
                 <p>Mas como eu rodo o backend do meu server na Vercel? Da pra fazer isso? Não queria reassistir o vídeo (foi mal Deschamps, deu preguiça) e também não queria ter duas URLs, uma pro front e uma pro back.</p>
@@ -55,12 +55,12 @@ function Home() {
                 <p>Imaginei que isso sairia uma fortuna e pasmem, a cloudflare é de graça pra usar o DNS deles (plano gratuito).</p>
                 <p>Imaginei que a Vercel era outra fortuna e pasmem, pra usar DNS na vercel é de graça também (plano gratuito).</p>
                 <p>Imaginei que ter um dóminio era outra fortuna e pasmem, dependendo o domínio, é muito barato (total 2 dólares).</p>
-                <a href="https://nicolas-lopes.space/">link: nicolas-lopes.space/</a>
+                <a href="https://nicolas-lopes.space/" style={{ color: "#61dafb", textDecoration: "none" }}>link: nicolas-lopes.space/</a>
                 <p>Acessando o link vai abrir uma página de um simples index.html, como se fosse um cartão de negócios antigo.</p>
                 <p>Caso alguém tenha interesse em me contratar para sistemas embarcados ou dev backend junior, estou praticamente formado em Engenharia Mecatrônica e me formei em ADS ano passado.</p>
                 <p>Amo tecnologia, sou muito curioso e sempre estou estudando cada vez mais, também estou estudando Engenharia de Software pra me aprofundar mais na criação de sistemas complexos.</p>
                 <p>Tenho certeza que vou ser uma ótima adição no seu time!</p>
-                <a href="https://api.nicolas-lopes.space/">a rota da api do meu tcc fica na mesma url, usando o tunel da cloudflare e um subdominio</a>
+                <a href="https://api.nicolas-lopes.space/" style={{ color: "#61dafb", textDecoration: "none" }}>a rota da api do meu tcc fica na mesma url, usando o tunel da cloudflare e um subdominio</a>
                 <p>(provavelmente vc não vai conseguir acessar pois só funciona com o servidor caseiro ligado e não coloquei nenhum fallback, a api precisa de autenticação tb então só eu tenho acesso XD)</p>
                 <p>enventuais side projects vou sempre usar essa url.</p>
 
