@@ -41,8 +41,8 @@ function Home() {
                 <a href="https://youtu.be/EW7m2WIvFgQ?si=DZtF9FK8QmY6JWq3">Como Eu Programo e Hospedo Sites da Forma Mais Moderna que Existe [GUIA DEFINITIVO]</a>
                 <p>Desde então, sempre que eu queria deixar algum frontend rodando de forma gratuita na internet eu usava a Vercel (percebi que várias pessoas também fizeram assim).</p>
                 <p>Como o meu TCC teria uma parte de frontend (que inclusive já iniciei, usando Vue.js, mas talvez troque pra Next.js por causa do Curso)</p>
-                <p>Mas como eu rodo um backend na Vercel? Da pra fazer isso? Não queria reassistir o vídeo (foi mal Deschamps, deu preguiça) e também não queria ter duas URLs, uma pro front e uma pro back.</p>
-                
+                <p>Mas como eu rodo o backend do meu server na Vercel? Da pra fazer isso? Não queria reassistir o vídeo (foi mal Deschamps, deu preguiça) e também não queria ter duas URLs, uma pro front e uma pro back.</p>
+                <p>Disclaimer: O meu "server caseiro", ta rodando todo o backend porque tem outras coisas que ele serve localmente também, não da pra ser tudo na nuvem, precisa ser local first, na verdade esse "servidor caseiro" em sistemas embarcados chamamos de ECU (eletronic computer unit) e ela controla dispositivos e sensores localmente. Atualmente com IoT que essa ECU ou sensores podem inclusive acessar a internet.</p>
                 --------------------------------------------------
 
                 <h3>Solução Definitiva</h3>
